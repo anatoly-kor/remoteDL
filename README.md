@@ -9,7 +9,9 @@ Check the availability GPU in the system.
 ## Update system and install required packets
 
 `sudo apt-get update`
+
 `sudo apt-get dist-upgrade`
+
 `sudo apt install -y build-essential git libgfortran3`
 
 ## Install CUDA
@@ -23,6 +25,7 @@ https://developer.nvidia.com/cuda-toolkit-archive
 ## Install Conda
 
 [Anaconda](https://www.anaconda.com/distribution/)
+
 [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
 ### Checking installation
